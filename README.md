@@ -1,5 +1,6 @@
 # Simple-Image-Classification-TFLite
-predict 8 classes of animals
+predict 8 classes of animals :
+
 horses, dog, elephant, butterfly, chicken, cat, cow, sheep, squirrel.
 
 ## Example 1
