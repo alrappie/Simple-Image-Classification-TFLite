@@ -1,5 +1,5 @@
 # Simple-Image-Classification-TFLite
-predicted 8 classes of animals :
+predicted 8 classes of animals from gallery or camera
 
 horses, dog, elephant, butterfly, chicken, cat, cow, sheep, squirrel.
 
